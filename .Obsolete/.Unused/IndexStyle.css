@@ -1,0 +1,35 @@
+*{font-family:"Sans-serif";font-size:18px}
+body{margin:16px;padding:8px;    
+/*https://stackoverflow.com/questions/1156278/how-can-i-scale-an-entire-web-page-with-css*/
+		transform: scale(1.0);
+		transform-origin: 0 0;
+}
+table, tbody, tr, td{border-width:1px;border-style:solid;border-color:black;border-spacing: 1px;overflow: hidden;text-overflow: ellipsis;}
+h1 {font-size:38px}
+h2 {font-size:28px}
+table {margin:5px}
+p{line-height: 20px;}
+a{font-size:19px;}
+li{margin:10px}
+td{padding:5px}
+input{padding:5px; margin:5px}
+
+.page_tabe td span a{ font-size:16px;}
+.page_table td{text-align:center;padding:5px;border-spacing: 3px; width:10px;}
+.page_table tr{}
+
+
+#bansTable td{/*padding:7.5px 10.0px;*/}
+#bansTable summary{text-align:left}
+
+#display_id{display:none}
+
+#paged_container{float:left;  width: 50%}
+#json_container{float:left; width: 50%;}
+
+#json_listing_id, #rendered_listing_id{width:40%}
+
+
+.tripItem, .nameItem, .boardItem, .actionItem, .lengthItem, .reasonItem{ margin:0px;text-align:center;margin:0px;}
+.comItem{padding:3.0px 13.0px}
+.boardItem{overflow: initial;text-overflow: initial;}

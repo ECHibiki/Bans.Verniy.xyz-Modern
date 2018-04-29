@@ -1,0 +1,276 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://verniy.xyz/</loc>
+  <lastmod>2017-12-24T22:10:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/</loc>
+  <lastmod>2017-12-24T22:10:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/index</loc>
+  <lastmod>2017-12-24T22:10:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/listings</loc>
+  <lastmod>2017-12-24T22:17:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/pages</loc>
+  <lastmod>2017-12-24T22:18:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/</loc>
+  <lastmod>2017-12-24T22:17:28+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/4Chan_Bans_Log-Ledger.txt</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-0.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-1.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-10.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-11.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-12.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-13.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-14.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-15.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-16.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-17.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-18.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-19.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-2.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-20.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-21.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-22.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-23.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-24.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-25.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-26.json</loc>
+  <lastmod>2017-12-11T01:39:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-27.json</loc>
+  <lastmod>2017-12-11T01:39:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-28.json</loc>
+  <lastmod>2017-12-14T01:34:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-29.json</loc>
+  <lastmod>2017-12-15T01:15:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-3.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-30.json</loc>
+  <lastmod>2017-12-17T01:15:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-31.json</loc>
+  <lastmod>2017-12-19T01:15:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-32.json</loc>
+  <lastmod>2017-12-21T02:15:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-33.json</loc>
+  <lastmod>2017-12-23T04:15:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-34.json</loc>
+  <lastmod>2017-12-24T22:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-4.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-5.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-6.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-7.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-8.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-9.json</loc>
+  <lastmod>2017-12-08T04:11:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-35.json</loc><lastmod>2017-12-26T17:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-36.json</loc><lastmod>2017-12-27T14:12:37+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-37.json</loc><lastmod>2017-12-29T04:31:25+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-38.json</loc><lastmod>2017-12-27T14:12:37+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-39.json</loc><lastmod>2017-12-29T04:31:25+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-40.json</loc><lastmod>2018-01-07T21:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-41.json</loc><lastmod>2018-01-07T21:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-42.json</loc><lastmod>2018-01-07T22:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-43.json</loc><lastmod>2018-01-09T23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-44.json</loc><lastmod>2018-01-11T23:15:03+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-45.json</loc><lastmod>2018-01-13T15:30:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-46.json</loc><lastmod>2018-01-15T15:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-47.json</loc><lastmod>2018-01-17T15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-48.json</loc><lastmod>2018-01-19T15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-49.json</loc><lastmod>2018-01-21T15:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-50.json</loc><lastmod>2018-01-23T15:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-51.json</loc><lastmod>2018-01-25T15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-52.json</loc><lastmod>2018-01-27T15:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-53.json</loc><lastmod>2018-01-29T15:30:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-54.json</loc><lastmod>2018-01-31T23:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-55.json</loc><lastmod>2018-02-02T23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-56.json</loc><lastmod>2018-02-04T23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-57.json</loc><lastmod>2018-02-06T23:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-58.json</loc><lastmod>2018-02-08T23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-59.json</loc><lastmod>2018-02-10T23:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-60.json</loc><lastmod>2018-02-12T23:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-61.json</loc><lastmod>2018-02-14T23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-62.json</loc><lastmod>2018-02-16T23:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-63.json</loc><lastmod>2018-02-18T23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-64.json</loc><lastmod>2018-02-20T23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-65.json</loc><lastmod>2018-02-22T23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-66.json</loc><lastmod>2018-02-24T15:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-67.json</loc><lastmod>2018-02-26T15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-68.json</loc><lastmod>2018-02-28T15:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-69.json</loc><lastmod>2018-03-02T15:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-70.json</loc><lastmod>2018-03-04T07:30:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-71.json</loc><lastmod>2018-03-06T07:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-72.json</loc><lastmod>2018-03-08T07:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-73.json</loc><lastmod>2018-03-10T07:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-74.json</loc><lastmod>2018-03-12CDT07:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-75.json</loc><lastmod>2018-03-13CDT23:30:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-76.json</loc><lastmod>2018-03-15CDT23:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-77.json</loc><lastmod>2018-03-17CDT23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-78.json</loc><lastmod>2018-03-19CDT23:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-79.json</loc><lastmod>2018-03-21CDT23:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-80.json</loc><lastmod>2018-03-23CDT23:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-81.json</loc><lastmod>2018-03-25CDT15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-82.json</loc><lastmod>2018-03-27CDT15:15:03+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-83.json</loc><lastmod>2018-03-29CDT15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-84.json</loc><lastmod>2018-03-31CDT15:15:03+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-85.json</loc><lastmod>2018-04-02CDT15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-86.json</loc><lastmod>2018-04-04CDT15:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-87.json</loc><lastmod>2018-04-06CDT15:15:03+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-88.json</loc><lastmod>2018-04-08CDT15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-89.json</loc><lastmod>2018-04-10CDT15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-90.json</loc><lastmod>2018-04-12CDT07:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-91.json</loc><lastmod>2018-04-14CDT15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-92.json</loc><lastmod>2018-04-16CDT15:15:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-93.json</loc><lastmod>2018-04-18CDT07:30:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-94.json</loc><lastmod>2018-04-20CDT07:30:01+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-95.json</loc><lastmod>2018-04-22CDT07:15:02+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-96.json</loc><lastmod>2018-04-24CDT06:01:17+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>http://bans.verniy.xyz/pages?file=97</loc><lastmod>2018-04-25CDT12:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=96</loc><lastmod>2018-04-24CDT01:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=95</loc><lastmod>2018-04-22CDT04:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=94</loc><lastmod>2018-04-20CDT07:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=93</loc><lastmod>2018-04-18CDT07:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=92</loc><lastmod>2018-04-16CDT08:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=91</loc><lastmod>2018-04-14CDT10:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=90</loc><lastmod>2018-04-12CDT05:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=89</loc><lastmod>2018-04-10CDT08:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=88</loc><lastmod>2018-04-08CDT11:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=87</loc><lastmod>2018-04-06CDT11:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=86</loc><lastmod>2018-04-04CDT13:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=85</loc><lastmod>2018-04-02CDT12:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=84</loc><lastmod>2018-03-31CDT12:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=83</loc><lastmod>2018-03-29CDT12:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=82</loc><lastmod>2018-03-27CDT13:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=81</loc><lastmod>2018-03-25CDT14:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=80</loc><lastmod>2018-03-23CDT16:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=79</loc><lastmod>2018-03-21CDT18:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=78</loc><lastmod>2018-03-19CDT20:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=77</loc><lastmod>2018-03-17CDT21:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=76</loc><lastmod>2018-03-15CDT21:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=75</loc><lastmod>2018-03-13CDT23:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=74</loc><lastmod>2018-03-12CDT00:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=73</loc><lastmod>2018-03-10CST01:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=72</loc><lastmod>2018-03-08CST03:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=71</loc><lastmod>2018-03-06CST04:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=70</loc><lastmod>2018-03-04CST07:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=69</loc><lastmod>2018-03-02CST09:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=68</loc><lastmod>2018-02-28CST11:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=67</loc><lastmod>2018-02-26CST13:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=66</loc><lastmod>2018-02-24CST14:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=65</loc><lastmod>2018-02-22CST16:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=64</loc><lastmod>2018-02-20CST17:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=63</loc><lastmod>2018-02-18CST20:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=62</loc><lastmod>2018-02-16CST21:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=61</loc><lastmod>2018-02-14CST20:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=60</loc><lastmod>2018-02-12CST20:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=59</loc><lastmod>2018-02-10CST20:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=58</loc><lastmod>2018-02-08CST19:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=57</loc><lastmod>2018-02-06CST20:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=56</loc><lastmod>2018-02-04CST18:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=55</loc><lastmod>2018-02-02CST18:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=54</loc><lastmod>2018-01-31CST16:08:24+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=53</loc><lastmod>2018-01-29CST15:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=52</loc><lastmod>2018-01-27CST14:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=51</loc><lastmod>2018-01-25CST13:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=50</loc><lastmod>2018-01-23CST13:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=49</loc><lastmod>2018-01-21CST09:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=48</loc><lastmod>2018-01-19CST09:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=47</loc><lastmod>2018-01-17CST12:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=46</loc><lastmod>2018-01-15CST13:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=45</loc><lastmod>2018-01-13CST15:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=44</loc><lastmod>2018-01-11CST17:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=43</loc><lastmod>2018-01-09CST19:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=42</loc><lastmod>2018-01-07CST21:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=41</loc><lastmod>2018-01-06CST00:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=40</loc><lastmod>2018-01-04CST00:15:02+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=39</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=38</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=37</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=36</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=35</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=34</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=33</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=32</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=31</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=30</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=29</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=28</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=27</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=26</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=25</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=24</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=23</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=22</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=21</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=20</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=19</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=18</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=17</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=16</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=15</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=14</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=13</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=12</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=11</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=10</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=9</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=8</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=7</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=6</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=5</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=4</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=3</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=2</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=1</loc><lastmod>2018-01-03CST00:00:05+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-97.json</loc><lastmod>2018-04-26CDT23:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=98</loc><lastmod>2018-04-26CDT23:15:01+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/Logs/4Chan_Bans_Log-Reverse_Chrono-98.json</loc><lastmod>2018-04-28CDT13:15:03+00:00</lastmod><priority>0.64</priority></url><url><loc>http://bans.verniy.xyz/pages?file=99</loc><lastmod>2018-04-28CDT13:15:03+00:00</lastmod><priority>0.64</priority></url></urlset>

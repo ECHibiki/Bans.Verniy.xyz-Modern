@@ -1,0 +1,101 @@
+[27-Apr-2018 03:36:16 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 17
+[27-Apr-2018 03:48:17 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 17
+[27-Apr-2018 03:48:30 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 17
+[27-Apr-2018 03:48:31 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 17
+[27-Apr-2018 03:48:32 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 17
+[27-Apr-2018 03:48:33 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 17
+[27-Apr-2018 03:55:28 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php:141
+Stack trace:
+#0 /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php(12): DatabaseConstruction->getPostDetailsAllUpperLower('Bans', 'BanEntryID', '0')
+#1 {main}
+  thrown in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 141
+[27-Apr-2018 03:56:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$statement' (T_VARIABLE) in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 142
+[27-Apr-2018 04:21:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$item_count' (T_VARIABLE) in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 25
+[27-Apr-2018 04:41:45 America/Chicago] PHP Warning:  Missing argument 3 for DatabaseConstruction::getCountOf(), called in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 25 and defined in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 162
+[27-Apr-2018 18:08:10 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 13
+[27-Apr-2018 18:08:10 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 13
+[27-Apr-2018 18:19:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 14
+[27-Apr-2018 18:19:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 14
+[27-Apr-2018 18:19:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 14
+[27-Apr-2018 18:19:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 14
+[27-Apr-2018 19:31:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 19:32:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 19:33:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 19:36:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 19:38:10 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php:154
+Stack trace:
+#0 /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php(20): DatabaseConstruction->getPostDetailsLimit('Bans', 'BanEntryID', 0, 'Board', 'qa')
+#1 {main}
+  thrown in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 154
+[27-Apr-2018 19:38:30 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php:154
+Stack trace:
+#0 /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php(20): DatabaseConstruction->getPostDetailsLimit('Bans', 'BanEntryID', 0, 'Board', 'qa')
+#1 {main}
+  thrown in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 154
+[27-Apr-2018 19:46:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 19:48:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 19:49:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 19:50:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 19:52:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 21:19:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 21:21:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 21:23:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 21:23:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 21:25:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 21:25:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 21:25:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 21
+[27-Apr-2018 23:50:27 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:50:28 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:50:29 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:50:29 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:50:44 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:05 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:08 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:08 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:20 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:20 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[27-Apr-2018 23:51:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:22 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:24 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:24 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:42 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:01:42 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:02:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:02:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:02:57 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:02:57 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:02:59 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:02:59 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:03:18 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:03:18 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 32
+[28-Apr-2018 00:29:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:31:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:31:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:32:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:32:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:33:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:38:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$statement' (T_VARIABLE) in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 169
+[28-Apr-2018 00:38:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:39:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:40:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:42:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 00:44:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 34
+[28-Apr-2018 01:23:46 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 237
+[28-Apr-2018 01:23:46 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 237
+[28-Apr-2018 01:23:47 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 237
+[28-Apr-2018 01:23:47 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 237
+[28-Apr-2018 01:24:26 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 237
+[28-Apr-2018 01:25:30 America/Chicago] PHP Warning:  Missing argument 5 for DatabaseConstruction::getCountOfAllSettings(), called in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 27 and defined in /home4/ecorvid/bans.verniy.xyz/Class/database-construction.php on line 197
+[28-Apr-2018 04:06:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 7
+[28-Apr-2018 04:06:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/ecorvid/bans.verniy.xyz/Scripts/sql-reader.php on line 7

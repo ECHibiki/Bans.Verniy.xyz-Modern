@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Simple 4Chan Ban Log - Listings Home Page</title>
+	<base href = "http://bans.verniy.xyz">
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+
+		<!-- jQuery library -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+		<!-- Popper JS -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+
+		<!-- Latest compiled JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+	<script src="../Scripts/BrowserDetect.js?2"></script>
+	<script src="../Scripts/LogListingFunctions.js?85"></script>
+	<script>
+			window.onload = function(){
+			detectBrowser();
+			setNodeHref(document.getElementById("json_view_id"), 
+			"https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en",
+			"https://addons.mozilla.org/en-US/firefox/addon/jsonview/",
+			"https://jsonview.com/");
+			beginAJAXCalls();
+		}
+	</script>
+	<!--<link rel="stylesheet" href="../Scripts/IndexStyle.css" type="text/css"> -->
+	</head>
+	<body style="background-color:rgb(225,245,255)" itemscope="" itemtype="http://schema.org/DataCatalog">
+<!-- from https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_navbar&stacked=h -->
+<nav class="navbar navbar-expand-sm bg-secondary">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link text-success" href="/">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-success" href="/main">Listing</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-success" href="http://verniy.xyz">Root</a>
+    </li>
+  </ul>
+</nav>
+	<div class="jumbotron jumbotron-fluid text-white bg-dark px-5 pt-1 pb-5">
+		<meta itemprop="url" content="http://bans.verniy.xyz/listings">
+			<h1 itemprop="name"  class="display-1">4Chan Ban Logger</h1>
+
+			<meta itemprop="keywords" content="4chan,bans,logger,shitposter,GR3,ban evasion,/a/,/c/,/h/,/d/,/e/">
+			<meta itemprop="version" content="Jan-03" id="versionInfo"/>
+			<p id="display_id" class="font-weight-bold">
+			...
+			</p>
+			<p itemprop="description" class="lead">	
+				4chan's ban page is polled every 15 minutes to check for the most recent bans to be placed into the logger program. These are added to the both the SQL database and JSON files that can be found bellow.
+				SQL Data is rendered into a table that can be found on the main listings or pages listings.</p>
+			<div class="card container-fluid bg-secondary">
+				<div style="card-body">
+					<h2  class="display-3">Navigate</h2>
+					<h3 class="display-4"><a href = "/main" class="text-warning">View Main Ban Listings</a></h3>
+					<mark>See 
+					<strong><a class="text-muted" href="/main">/main</a></strong> for Javascript pages.</mark><br/>
+					<mark>See <strong><a class="text-muted" href="/pages?file=1">/pages</a></strong> for non-Javascript version.</mark>
+					</p>
+					Github repository: <a class="text-warning" href="https://github.com/ECHibiki/bans.verniy.xyz-Modern" itemprop="sameAs">https://github.com/ECHibiki/bans.verniy.xyz-Modern</a><br/>
+					Backup repository: <a class="text-warning" href="https://github.com/ECHibiki/Backup_bans.verniy.xyz/" itemprop="sameAs">https://github.com/ECHibiki/Backup_bans.verniy.xyz/</a><br/>
+					Bans logged from: <a class="text-warning" href="https://www.4chan.org/bans" itemprop="sameAs">https://www.4chan.org/bans</a><br/>
+					SQL Data: <a class="text-warning" href="/Backups">Download Here(33.8mb)</a>
+				</div>
+			</div>
+		</div>
+<hr/>
+			<div id="listings_container" class="container-fluid" itemscope='' itemtype='http://schema.org/DataSet'>
+				<div class="row">
+					<div id ="paged_container" class="col-sm-6" style="">
+						<div id="paged_text_container">
+							<h3 class="display-4">Paged Listings</h3>
+							<p class=" font-weight-light">PHP/Paged version of the listings incase javascript is disabled on your computer and you still wish to use this site.<br/></p>
+						</div>
+						<div id="paged_list_container">
+							<ol id="rendered_listing_id"></ol>
+						</div>
+					</div>
+					<div id ="json_container" class="col-sm-6"  style="">
+						<div id="json_text_container">
+							<h3 class="display-4">JSON Listings</h3>
+							<p class=" font-weight-light">Consider using a JSON viewer such as <a id="json_view_id" href="">JSONView</a> to properly read the JSON listings. 
+							Take note, first entry is not JSON readable as of yet since it's being added to every 15 minutes. This mostly exists for anyone who needs the data in JSON form for whatever reason.</p>
+						</div>
+						<div id="json_list_container">
+							<ol id="json_listing_id"></ol>	
+						</div>
+					</div>
+				</div>
+			</div>
+	<div itemprop="about" class='p-4'>
+			<p>
+				<span itemprop="accountablePerson">Verniy 2017-2018</span><br/>
+				<meta itemprop="author" content="ECHibiki">
+				Inquiries to be sent to the gmail account of ECVerniy
+			</p>
+		</div>
+	</body>
+</html>
